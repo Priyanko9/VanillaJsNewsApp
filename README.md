@@ -6,3 +6,6 @@ The project is using lite-server
 
 # installation
 npm install
+
+# start
+npm start
